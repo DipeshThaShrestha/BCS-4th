@@ -1,0 +1,235 @@
+
+
+			Student's Details
+		_________________________________
+
+	Student Name: Dipesj Tha
+	ID: 6897608
+	Section: asd
+	Semester: asd
+	Department: 
+	University Name: asd
+	Student Blood Group: as
+	University Current Semester Result: 0.00
+	University Overall Result: 35185810735104.00
+
+
+			Student's Background
+		____________________________________
+
+	College Name: ds
+	H.S.C Passing Year: 1684957527
+	H.S.C Result in GPA: 16929041132384856000000.00
+	H.S.C Board: ds
+	School Name: ds
+	S.S.C Passing Year: 1601402735
+	S.S.C Result in GPA: 0.05
+	S.S.C Board: ds
+
+
+			Student's Contract Information
+		_____________________________________________
+
+	Student's Phone Number: 29555697195237320
+	Father's Name: d
+	Mother's Name: d
+	Father's Phone Number: 6917529029184585728
+	Mother's Phone Number: 0
+	Present Address: ds
+	Permanent Address: ds
+	Other's Details and Comment: ds
+
+			Student's Details
+		_________________________________
+
+	Student Name: ds
+	ID: 6881472
+	Section: ds
+	Semester: dsa
+	Department: ds
+	University Name: ds
+	Student Blood Group: ds
+	University Current Semester Result: 18178038474077583000000000000000.00
+	University Overall Result: 4006958513134766000000000.00
+
+
+			Student's Background
+		____________________________________
+
+	College Name: ds
+	H.S.C Passing Year: 29540
+	H.S.C Result in GPA: 70076221871067404000000.00
+	H.S.C Board: ds
+	School Name: ds
+	S.S.C Passing Year: 0
+	S.S.C Result in GPA: 0.00
+	S.S.C Board: ds
+
+
+			Student's Contract Information
+		_____________________________________________
+
+	Student's Phone Number: 3906654115356228164
+	Father's Name: ds
+	Mother's Name: ds
+	Father's Phone Number: 8386658338402351152
+	Mother's Phone Number: 7238235817161682793
+	Present Address: ds
+	Permanent Address: ds
+	Other's Details and Comment: ds
+
+			Student's Details
+		_________________________________
+
+	Student Name: Dipesh Tha Shrestha
+	ID: 1
+	Section: A
+	Semester: 4th
+	Department: BCS (hons)
+	University Name: Infrastruture
+	Student Blood Group: AB+
+	University Current Semester Result: 0.00
+	University Overall Result: 35185810735104.00
+
+
+			Student's Background
+		____________________________________
+
+	College Name: Sunway
+	H.S.C Passing Year: 2019
+	H.S.C Result in GPA: 16929041132384856000000.00
+	H.S.C Board: A
+	School Name: Supreme
+	S.S.C Passing Year: 2017
+	S.S.C Result in GPA: 0.05
+	S.S.C Board: A
+
+
+			Student's Contract Information
+		_____________________________________________
+
+	Student's Phone Number: 981234566
+	Father's Name: Dev Chandra Tha Shrestha
+	Mother's Name: Laxmi Tha Shrestha
+	Father's Phone Number: 981233214
+	Mother's Phone Number: 321432155
+	Present Address: Bode
+	Permanent Address: Bode
+	Other's Details and Comment: .....
+
+			Student's Details
+		_________________________________
+
+	Student Name: asd
+	ID: 12452032
+	Section: ad
+	Semester: dsf
+	Department: asdf
+	University Name: dsf
+	Student Blood Group: ds
+	University Current Semester Result: 18178038474077583000000000000000.00
+	University Overall Result: 4006957936674013700000000.00
+
+
+			Student's Background
+		____________________________________
+
+	College Name: 
+	H.S.C Passing Year: 1701732717
+	H.S.C Result in GPA: 0.00
+	H.S.C Board: as
+	School Name: ds
+	S.S.C Passing Year: 1092645998
+	S.S.C Result in GPA: 4542004724221154400000000000000.00
+	S.S.C Board: ds
+
+
+			Student's Contract Information
+		_____________________________________________
+
+	Student's Phone Number: 651440197366670706
+	Father's Name: ds
+	Mother's Name: ds
+	Father's Phone Number: 5983324786048779337
+	Mother's Phone Number: 2322289982652572517
+	Present Address: d
+	Permanent Address: ds
+	Other's Details and Comment: sad
+
+			Student's Details
+		_________________________________
+
+	Student Name: 
+	ID: 12452032
+	Section: ds
+	Semester: ds
+	Department: ds
+	University Name: ds
+	Student Blood Group: ds
+	University Current Semester Result: 0.00
+	University Overall Result: 0.00
+
+
+			Student's Background
+		____________________________________
+
+	College Name: d
+	H.S.C Passing Year: 1684291872
+	H.S.C Result in GPA: 71518067306168578000000.00
+	H.S.C Board: ds
+	School Name: d
+	S.S.C Passing Year: 1936942450
+	S.S.C Result in GPA: 75550798763424496000000000000000.00
+	S.S.C Board: ds
+
+
+			Student's Contract Information
+		_____________________________________________
+
+	Student's Phone Number: 7301189360294244402
+	Father's Name: ds
+	Mother's Name: ds
+	Father's Phone Number: 6998658066923746403
+	Mother's Phone Number: 8315172568961714788
+	Present Address: ds
+	Permanent Address: ds
+	Other's Details and Comment: 
+
+			Student's Details
+		_________________________________
+
+	Student Name: ds
+	ID: 12452032
+	Section: da
+	Semester: sa
+	Department: a
+	University Name: s
+	Student Blood Group: a
+	University Current Semester Result: 0.00
+	University Overall Result: 0.00
+
+
+			Student's Background
+		____________________________________
+
+	College Name: ds
+	H.S.C Passing Year: 1919248500
+	H.S.C Result in GPA: 11822763047480199000000.00
+	H.S.C Board: ds
+	School Name: 
+	S.S.C Passing Year: 1142977319
+	S.S.C Result in GPA: 2299163392.00
+	S.S.C Board: ds
+
+
+			Student's Contract Information
+		_____________________________________________
+
+	Student's Phone Number: 7598807758116817458
+	Father's Name: ds
+	Mother's Name: 
+	Father's Phone Number: 651459969983082095
+	Mother's Phone Number: 8243122731943290195
+	Present Address: ds
+	Permanent Address: ds
+	Other's Details and Comment: ds
